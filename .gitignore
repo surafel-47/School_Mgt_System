@@ -1,0 +1,33 @@
+# Ignore compiled Java classes and JAR files
+*.class
+*.jar
+
+# Ignore build directories
+target/
+out/
+build/
+bin/
+.idea/
+.project
+
+# Ignore logs and other generated files
+*.log
+*.log.*
+hs_err_pid*
+logs/
+log/
+target/
+
+# Ignore IDE-specific files and directories
+.settings/
+.classpath
+.project
+.idea/
+
+# Ignore generated files
+.DS_Store
+Thumbs.db
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
